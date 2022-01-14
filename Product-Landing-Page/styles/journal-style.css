@@ -1,0 +1,68 @@
+body {
+    background-color: #F8F5E6;
+    font-family: sans-serif;
+    font-size: small;
+    border: solid black;
+    padding: 15px;
+}
+header {
+    /*background-image: url(../images/notebook-background.png);*/
+}
+h1 {
+    color: #7B876D;
+    border-bottom: 1px solid black;
+    font-size: 200%;
+    text-align: center;
+    padding-bottom: 5px;
+}
+h2 {
+    font-size: 170%;
+}
+h3 {
+    font-size: 150%;
+}
+p {
+    color: #3B1E08;
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 24px;
+}
+ul {
+    list-style-type: none;
+}
+
+h1, h2, h3 {
+    font-family: Georgia;
+}
+h2.features {
+    color: #cc6a4c;
+}
+#nav-bar {
+    border: 1px dotted blue;
+    margin-right: 10px;
+    padding: 0px;
+}
+
+#products {
+    border: thin solid #436b95;
+    line-height: 2;
+
+    padding: 20px;
+}
+
+h2.features, h3.features {
+    font-weight: bold;
+}
+.heading {
+    font-weight: lighter;
+}
+a:link {
+    color: #3B1E08;
+    text-decoration: none;
+}
+a:visited {
+    color: #3B1E08;
+}
+a:hover {
+    color: #7B876D;
+    text-decoration: underline;
+}
